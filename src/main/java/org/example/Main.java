@@ -11,6 +11,8 @@ public class Main {
 //        myCar.startEngine();
 //        String status = myCar.drive(60);
 //        System.out.println(status);
+
+        //question 1 mini challenge
 //        myCar.turnOffEngine();
 
         //question 2
@@ -103,16 +105,16 @@ public class Main {
 
         //question 8 mini lab
 
-        User user = new User("password123");
-        System.out.println("Current masked password: " + user.getPassword());
-
-        System.out.println("Attempting to set short password 'pass'...");
-        user.setPassword("pass");
-        System.out.println("Current masked password: " + user.getPassword());
-
-        System.out.println("Attempting to set valid password 'secure_password_123'...");
-        user.setPassword("secure_password_123");
-        System.out.println("Current masked password: " + user.getPassword());
+//        User user = new User("pass123");
+//        System.out.println("Current masked password: " + user.getPassword());
+//
+//        System.out.println("Attempting to set short password 'pass'...");
+//        user.setPassword("pass");
+//        System.out.println("Current masked password: " + user.getPassword());
+//
+//        System.out.println("Attempting to set valid password 'secure_password_123'...");
+//        user.setPassword("secure_password_123");
+//        System.out.println("Current masked password: " + user.getPassword());
 
 
 
