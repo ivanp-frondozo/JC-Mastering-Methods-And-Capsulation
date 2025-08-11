@@ -33,7 +33,7 @@ This is a simple Java program designed to explore creation of methods, metho ove
 
 ### Exercise 4
 
-![exercise 4](images/exercises4.png)
+![exercise 4](images/exercise4.png)
 
 ### Mini challenge 4
 
